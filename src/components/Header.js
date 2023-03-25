@@ -12,12 +12,12 @@ function Header() {
     const renderPage = () => {
 
         if (currentPage === 'About') return <About />;
-        
+
         if (currentPage === 'Portfolio') return <Portfolio />;
 
         return <Contact />;
     }
-        
+
 
     const handlePageChange = (page) => setCurrentPage(page);
 
