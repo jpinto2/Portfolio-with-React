@@ -13,7 +13,7 @@ function Project({ project }) {
         </img>
       <div>
         <h3>
-          <a href={link}>{name}</a>{' '}
+          <a href={deployment}>{name}</a>{' '}
           <a href={repo}>Github Repo</a>
         </h3>
       </div>
