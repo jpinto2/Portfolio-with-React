@@ -15,7 +15,7 @@ Run these commands to deploy this locally:
 -npm run build
 -npm run start
 
-Visit this web address to see the github deployed page for the repo: 
+Visit this web address to see the github deployed page for the repo(seems to be having issues): https://gitname.github.io/react-gh-pages/
 
 Using chrome as the browser for the web page, right click on it and click inspect to use Chrome DevTools to inspect the html and CSS.
 
