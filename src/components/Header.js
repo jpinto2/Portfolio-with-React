@@ -25,7 +25,7 @@ function Header() {
         <header className='container-fluid d-flex flex-column bg-primary text-white'>
             <div className="row d-flex flex-row">
                 <h1 className='col'>Portfolio</h1>
-                <nav className='col navbar d-flex flex-wrap text-right'>
+                <nav className='col navbar d-flex flex-wrap text-right bg-danger text-white'>
                     <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
                 </nav>
             </div>
